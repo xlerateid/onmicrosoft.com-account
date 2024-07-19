@@ -66,7 +66,7 @@ Anda akan diminta untuk memilih nama domain. Nama ini akan digunakan sebagai dom
 
 Masukkan username, domain yang ingin digunakan, serta password. Pastikan nama domain bisa disimpan (save) sehingga muncul tulisan "Edit". Lalu klik "Next"
 
-Sampai disini microsoft akan membuat akun onmicrosoft.com. TIDAK PERLU MENERUSKAN proses menyediakan informasi PAYMENT / PEMBAYARAN.
+Sampai disini microsoft akan membuat akun onmicrosoft.com. **TIDAK PERLU MENERUSKAN** proses menyediakan informasi **PAYMENT / PEMBAYARAN**.
 
 ### 4. Login ke Microsoft fabric
 
