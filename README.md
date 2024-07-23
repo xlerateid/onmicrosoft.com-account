@@ -97,7 +97,9 @@ Layanan Free Trial dapat digunakan selama 60 hari (Tertulis sisa 59 hari). Setel
 
 ### Contoh Embedded Report yang sudah dipublished
 
-Klik Link untuk melihat [Report](https://app.powerbi.com/reportEmbed?reportId=afb9ec7f-e997-48f8-89c5-c028d064d648&autoAuth=true&ctid=e3728bfe-c60c-41a0-a065-0bcb0ff8311e)
+Klik [Link](https://app.powerbi.com/reportEmbed?reportId=afb9ec7f-e997-48f8-89c5-c028d064d648&autoAuth=true&ctid=e3728bfe-c60c-41a0-a065-0bcb0ff8311e) atau scan QR Code di bawah ini untuk melihat Report.
+
+![](TataVPQRCode.jpg)
 
 Demikian panduan membuat akun onmicrosoft.com. Gunakan dengan bijak. 
 
